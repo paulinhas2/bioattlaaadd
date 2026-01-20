@@ -260,7 +260,7 @@ export default function KCPModsBioPage() {
 
           {/* WhatsApp Card - HTML PURO para Deep Link funcionar no TikTok WebView */}
           <a
-            href="https://api.whatsapp.com/send/?phone=5521969905171&text=Quero+saber+mais+sobre+o+GTA+RP+no+console&type=phone_number&app_absent=0"
+            href="https://api.whatsapp.com/send/?phone=5521969938361&text=Quero+saber+mais+sobre+o+GTA+RP+no+console&type=phone_number&app_absent=0"
             className="whatsapp-float-btn relative block w-full rounded-2xl overflow-hidden group transition-transform duration-200 hover:scale-[1.02] active:scale-[0.98]"
             style={{ 
               opacity: isLoaded ? 1 : 0, 
@@ -391,10 +391,10 @@ export default function KCPModsBioPage() {
               </motion.div>
               <div className="flex-1">
                 <p className="text-[#fbbf24] text-sm font-medium">
-                  Suporte via WhatsApp com possivel instabilidade, entre em contato via Telegram
+                  Caso tenha problemas com link. Whatsapp: 21969938361
                 </p>
                 <p className="text-[#a1a1aa] text-xs mt-1">
-                  19/01/2026
+                  20/01/2026
                 </p>
               </div>
             </div>
@@ -476,7 +476,7 @@ export default function KCPModsBioPage() {
 
           {/* WhatsApp Button - HTML PURO para Deep Link funcionar no TikTok WebView */}
           <a
-            href="https://api.whatsapp.com/send/?phone=5521969905171&text=Quero+saber+mais+sobre+o+GTA+RP+no+console&type=phone_number&app_absent=0"
+            href="https://api.whatsapp.com/send/?phone=5521969938361&text=Quero+saber+mais+sobre+o+GTA+RP+no+console&type=phone_number&app_absent=0"
             className="relative w-14 h-14 bg-[#22c55e] rounded-full flex items-center justify-center shadow-lg shadow-[#22c55e]/30 transition-transform duration-150 hover:scale-110 active:scale-90 whatsapp-float-btn"
           >
             <MessageCircle className="w-7 h-7 text-white" />
