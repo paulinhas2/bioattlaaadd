@@ -391,7 +391,7 @@ export default function KCPModsBioPage() {
               </motion.div>
               <div className="flex-1">
                 <p className="text-[#fbbf24] text-sm font-medium">
-                  Caso tenha problemas com link. Whatsapp: 21969938361
+                  Caso tenha problemas com link. Whatsapp: 21 96993-8361
                 </p>
                 <p className="text-[#a1a1aa] text-xs mt-1">
                   20/01/2026
